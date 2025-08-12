@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dana</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damndana/damndana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damndana/damndana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/damndana/damndana/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<h1 align="center">Hi, I'm Dana</h1>
 <h3 align="center">Machine Learning & Data Science Practitioner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damndana" alt="damndana" /></a> </p>
@@ -18,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damndana&show_icons=true&locale=en" alt="damndana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damndana&" alt="damndana" /></p>
+
